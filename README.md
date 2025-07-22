@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">OOP Semester Project 2022</h3>
+<h3 align="center">Mirror Gym 2024</h3>
 
   <p align="center">
     project_description
@@ -173,16 +173,6 @@ See the [open issues](https://github.com/codefolk/Semester-Project-2022/issues) 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- Team Members -->
-## Team Members
-[Muhammad Saad Suleman](https://github.com/SAADSULEMAN053)</br>
-[Syed Ayaan Ali](https://github.com/incognito-root)</br>
-[Muhammad Zohaib](https://github.com/MuhammedZohaib)
-
-## Supervisor
-[Dr. Aksam Iftikhar](https://github.com/aksamiftikhar)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -198,13 +188,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
- ### Email
- Muhammad Zohaib - <alizuhaib828@gmail.com><br> 
- Muhammad Saad Suleman - <saadfacebooks4563@gmail.com><br>
- Syed Ayaan Ali - <syedayaanali789@gmail.com>
-
-Project Link: [Semester Project 2022](https://github.com/codefolk/Semester-Project-2022.git)
+Email : sjstarun8@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
