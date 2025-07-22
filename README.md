@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="(https://github.com/SJSTARUN14/Mirror-Gym-App.git)">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -40,13 +40,8 @@
     project_description
     <br />
     <a href="https://github.com/codefolk/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/codefolk/">View Demo</a>
+    <br />    <a href="(https://github.com/SJSTARUN14/Mirror-Gym-App.git)">Report Bug</a>
     ·
-    <a href="https://github.com/codefolk/Semester-Project-2022/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/codefolk/Semester-Project-2022/issues">Request Feature</a>
   </p>
 </div>
 
@@ -167,8 +162,6 @@ _For more examples, please refer to the [Documentation](https://docs.oracle.com/
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
-
-See the [open issues](https://github.com/codefolk/Semester-Project-2022/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
